@@ -1,0 +1,224 @@
+{
+	"id": "3eb13a52-c3d6-4e56-83ad-3c38bd521405",
+	"values": [
+		{
+			"key": "sipaddr1",
+			"value": "+12332@six.com",
+			"enabled": true
+		},
+		{
+			"key": "tenant1",
+			"value": "Axecap",
+			"enabled": true
+		},
+		{
+			"key": "UN1",
+			"value": "tenant@QATest",
+			"enabled": true
+		},
+		{
+			"key": "TokenAdm",
+			"value": "18b09ab209914af99c05d46ac280cb7b",
+			"enabled": true
+		},
+		{
+			"key": "TokenAxe",
+			"value": "af5fcc2421af4407b68edcaae970564d",
+			"enabled": true
+		},
+		{
+			"key": "TokenPit",
+			"value": "19b9e16f9f3f446092f8b8a1449a4b4e",
+			"enabled": true
+		},
+		{
+			"key": "sipaddressAxe",
+			"value": "+d519@org.com",
+			"enabled": true
+		},
+		{
+			"key": "ObjectGuid",
+			"value": "bda4d9d0-fab5-4d0c-8763-fca8f8dbbb24",
+			"enabled": true
+		},
+		{
+			"key": "AccGrpNam",
+			"value": "Grass-roots",
+			"enabled": true
+		},
+		{
+			"key": "AccGrpID",
+			"value": "6889",
+			"enabled": true
+		},
+		{
+			"key": "CollectionNam",
+			"value": "Brice992",
+			"enabled": true
+		},
+		{
+			"key": "CollectionID",
+			"value": "11156",
+			"enabled": true
+		},
+		{
+			"key": "CollectionDescri",
+			"value": "Terence430",
+			"enabled": true
+		},
+		{
+			"key": "RoleNme",
+			"value": "Cloned",
+			"enabled": true
+		},
+		{
+			"key": "RoleId",
+			"value": "7501",
+			"enabled": true
+		},
+		{
+			"key": "RoleDescr",
+			"value": "Multi-tiered",
+			"enabled": true
+		},
+		{
+			"key": "ReasonCodNme",
+			"value": "Verdie665",
+			"enabled": true
+		},
+		{
+			"key": "ReasonCoId",
+			"value": "5737001",
+			"enabled": true
+		},
+		{
+			"key": "PhoneBookNam",
+			"value": "QAplusRegTest123",
+			"enabled": true
+		},
+		{
+			"key": "PhoneBookFinesseId",
+			"value": "302",
+			"enabled": true
+		},
+		{
+			"key": "SkillsId",
+			"value": "9258001",
+			"enabled": true
+		},
+		{
+			"key": "SkillsNme",
+			"value": "Albania",
+			"enabled": true
+		},
+		{
+			"key": "TeamsNme",
+			"value": "Grenada",
+			"enabled": true
+		},
+		{
+			"key": "TeamsId",
+			"value": "16166001",
+			"enabled": true
+		},
+		{
+			"key": "RoutingConDateNam",
+			"value": "Car",
+			"enabled": true
+		},
+		{
+			"key": "RoutingConDateId",
+			"value": "5629",
+			"enabled": true
+		},
+		{
+			"key": "RoutingConPerNam",
+			"value": "Wooden",
+			"enabled": true
+		},
+		{
+			"key": "RoutingConPerId",
+			"value": "5638",
+			"enabled": true
+		},
+		{
+			"key": "code",
+			"value": "1370",
+			"enabled": true
+		},
+		{
+			"key": "AudioManageNme",
+			"value": "Gerard Manor",
+			"enabled": true
+		},
+		{
+			"key": "AudioManageId",
+			"value": "948",
+			"enabled": true
+		},
+		{
+			"key": "RoutingConSchedNam",
+			"value": "whiteboard",
+			"enabled": true
+		},
+		{
+			"key": "RoutingConSchedId",
+			"value": "whiteboard",
+			"enabled": true
+		},
+		{
+			"key": "RoutingConTabNam",
+			"value": "Sadieborough",
+			"enabled": true
+		},
+		{
+			"key": "RoutingConTabId",
+			"value": "5780",
+			"enabled": true
+		},
+		{
+			"key": "RoutingConTabFileId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "phone",
+			"value": "61307",
+			"enabled": true
+		},
+		{
+			"key": "UserAgentNam",
+			"value": "Max",
+			"enabled": true
+		},
+		{
+			"key": "UserAgentNamId",
+			"value": "Max",
+			"enabled": true
+		},
+		{
+			"key": "UserSuperNam",
+			"value": "Tamia",
+			"enabled": true
+		},
+		{
+			"key": "UserSuperNamId",
+			"value": "Tamia",
+			"enabled": true
+		},
+		{
+			"key": "UserNonConNam",
+			"value": "Tamia",
+			"enabled": true
+		},
+		{
+			"key": "UserNonConNamId",
+			"value": "Tamia",
+			"enabled": true
+		}
+	],
+	"name": "Portal Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2021-04-16T17:59:12.306Z",
+	"_postman_exported_using": "Postman/8.2.1"
+}
